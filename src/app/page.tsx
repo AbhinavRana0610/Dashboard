@@ -19,7 +19,6 @@ const FileTypePdf = "/icons/File-Type-Pdf.png";
 const FileTypeDoc = "/icons/File-Type-Doc.png";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Avatar } from "@/components/ui/avatar";
 import { Switch } from "@/components/ui/switch";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 
